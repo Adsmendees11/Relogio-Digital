@@ -30,3 +30,5 @@ Ao abrir a página, o script identifica o horário atual e exibe:
 - (Precisa carregar a página para ver o horário em tempo real)
 
 ## 🚀 Como executar
+
+🔗 **Acesse aqui a demonstração online:** [Relógio Digital](https://adsmendees11.github.io/Relogio-Digital/)
